@@ -1,0 +1,38 @@
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\bin\Debug\net5.0-windows\FirstGame.exe
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\bin\Debug\net5.0-windows\FirstGame.deps.json
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\bin\Debug\net5.0-windows\FirstGame.runtimeconfig.json
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\bin\Debug\net5.0-windows\FirstGame.runtimeconfig.dev.json
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\bin\Debug\net5.0-windows\FirstGame.dll
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\bin\Debug\net5.0-windows\ref\FirstGame.dll
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\bin\Debug\net5.0-windows\FirstGame.pdb
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\obj\Debug\net5.0-windows\FirstGame.csproj.AssemblyReference.cache
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\obj\Debug\net5.0-windows\FirstGame.Form1.resources
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\obj\Debug\net5.0-windows\FirstGame.Properties.Resources.resources
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\obj\Debug\net5.0-windows\FirstGame.csproj.GenerateResource.cache
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\obj\Debug\net5.0-windows\FirstGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\obj\Debug\net5.0-windows\FirstGame.AssemblyInfoInputs.cache
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\obj\Debug\net5.0-windows\FirstGame.AssemblyInfo.cs
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\obj\Debug\net5.0-windows\FirstGame.csproj.CoreCompileInputs.cache
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\obj\Debug\net5.0-windows\FirstGame.dll
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\obj\Debug\net5.0-windows\ref\FirstGame.dll
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\obj\Debug\net5.0-windows\FirstGame.pdb
+D:\Education\Colledge\3d\SystemProgramming\Programs\FirstGame\FirstGame\obj\Debug\net5.0-windows\FirstGame.genruntimeconfig.cache
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\bin\Debug\net5.0-windows\FirstGame.exe
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\bin\Debug\net5.0-windows\FirstGame.deps.json
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\bin\Debug\net5.0-windows\FirstGame.runtimeconfig.json
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\bin\Debug\net5.0-windows\FirstGame.runtimeconfig.dev.json
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\bin\Debug\net5.0-windows\FirstGame.dll
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\bin\Debug\net5.0-windows\ref\FirstGame.dll
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\bin\Debug\net5.0-windows\FirstGame.pdb
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\obj\Debug\net5.0-windows\FirstGame.csproj.AssemblyReference.cache
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\obj\Debug\net5.0-windows\FirstGame.Form1.resources
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\obj\Debug\net5.0-windows\FirstGame.Properties.Resources.resources
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\obj\Debug\net5.0-windows\FirstGame.csproj.GenerateResource.cache
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\obj\Debug\net5.0-windows\FirstGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\obj\Debug\net5.0-windows\FirstGame.AssemblyInfoInputs.cache
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\obj\Debug\net5.0-windows\FirstGame.AssemblyInfo.cs
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\obj\Debug\net5.0-windows\FirstGame.csproj.CoreCompileInputs.cache
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\obj\Debug\net5.0-windows\FirstGame.dll
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\obj\Debug\net5.0-windows\ref\FirstGame.dll
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\obj\Debug\net5.0-windows\FirstGame.pdb
+D:\Education\Colledge\3d\SystemProgramming\Programs\Chigivaras RISE\Chigivaras RISE\obj\Debug\net5.0-windows\FirstGame.genruntimeconfig.cache

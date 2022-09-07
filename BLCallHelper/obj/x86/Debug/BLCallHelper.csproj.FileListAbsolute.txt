@@ -1,0 +1,12 @@
+D:\Programming\WinForms\BLCallHelper\bin\x86\Debug\BLCallHelper.exe.config
+D:\Programming\WinForms\BLCallHelper\bin\x86\Debug\BLCallHelper.exe
+D:\Programming\WinForms\BLCallHelper\bin\x86\Debug\BLCallHelper.pdb
+D:\Programming\WinForms\BLCallHelper\obj\x86\Debug\BLCallHelper.csproj.AssemblyReference.cache
+D:\Programming\WinForms\BLCallHelper\obj\x86\Debug\BLCallHelper.csproj.SuggestedBindingRedirects.cache
+D:\Programming\WinForms\BLCallHelper\obj\x86\Debug\BLCallHelper.CalculateForm.resources
+D:\Programming\WinForms\BLCallHelper\obj\x86\Debug\BLCallHelper.Form1.resources
+D:\Programming\WinForms\BLCallHelper\obj\x86\Debug\BLCallHelper.Properties.Resources.resources
+D:\Programming\WinForms\BLCallHelper\obj\x86\Debug\BLCallHelper.csproj.GenerateResource.cache
+D:\Programming\WinForms\BLCallHelper\obj\x86\Debug\BLCallHelper.csproj.CoreCompileInputs.cache
+D:\Programming\WinForms\BLCallHelper\obj\x86\Debug\BLCallHelper.exe
+D:\Programming\WinForms\BLCallHelper\obj\x86\Debug\BLCallHelper.pdb

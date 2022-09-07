@@ -1,0 +1,16 @@
+D:\Programming\ConsoleApps\EAA_Task_04\bin\Debug\net5.0\FightWithCat.exe
+D:\Programming\ConsoleApps\EAA_Task_04\bin\Debug\net5.0\FightWithCat.deps.json
+D:\Programming\ConsoleApps\EAA_Task_04\bin\Debug\net5.0\FightWithCat.runtimeconfig.json
+D:\Programming\ConsoleApps\EAA_Task_04\bin\Debug\net5.0\FightWithCat.runtimeconfig.dev.json
+D:\Programming\ConsoleApps\EAA_Task_04\bin\Debug\net5.0\FightWithCat.dll
+D:\Programming\ConsoleApps\EAA_Task_04\bin\Debug\net5.0\ref\FightWithCat.dll
+D:\Programming\ConsoleApps\EAA_Task_04\bin\Debug\net5.0\FightWithCat.pdb
+D:\Programming\ConsoleApps\EAA_Task_04\obj\Debug\net5.0\FightWithCat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ConsoleApps\EAA_Task_04\obj\Debug\net5.0\FightWithCat.AssemblyInfoInputs.cache
+D:\Programming\ConsoleApps\EAA_Task_04\obj\Debug\net5.0\FightWithCat.AssemblyInfo.cs
+D:\Programming\ConsoleApps\EAA_Task_04\obj\Debug\net5.0\FightWithCat.csproj.CoreCompileInputs.cache
+D:\Programming\ConsoleApps\EAA_Task_04\obj\Debug\net5.0\FightWithCat.dll
+D:\Programming\ConsoleApps\EAA_Task_04\obj\Debug\net5.0\ref\FightWithCat.dll
+D:\Programming\ConsoleApps\EAA_Task_04\obj\Debug\net5.0\FightWithCat.pdb
+D:\Programming\ConsoleApps\EAA_Task_04\obj\Debug\net5.0\FightWithCat.genruntimeconfig.cache
+D:\Programming\ConsoleApps\EAA_Task_04\obj\Debug\net5.0\FightWithCat.csproj.AssemblyReference.cache
